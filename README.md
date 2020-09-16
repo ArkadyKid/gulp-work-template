@@ -6,6 +6,6 @@ Html, Scss, Gulp, ESLint, Babel, Webpack
 ## Install
 
 ````
-$ git clone git@github.com:ArkadyKid/gulp-template.git
+$ git clone git@github.com:ArkadyKid/gulp-work-template.git
 $ npm install
 ````
